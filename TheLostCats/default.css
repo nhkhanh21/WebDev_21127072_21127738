@@ -3,7 +3,7 @@
 /*---Default---*/
 body {
     backface-visibility: visible;
-    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+    background-color: aliceblue;
 }
 
 #main {
@@ -55,6 +55,7 @@ html {
     margin: auto;
     text-align: center;
     font-family: arial;
+    background-color: white;
 }
 
 #avatar-img {
